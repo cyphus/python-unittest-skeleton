@@ -1,0 +1,12 @@
+# This file lists requirements for tox commands. It contains the same versions
+# pinned in setup.py, except in cases where it's more useful to always have the
+# latest version for development purposes. Changes made here should be cross
+# referenced with requirements listed in setup.py.
+
+# Test requirements
+mock
+nose
+coverage
+
+# Lint requirements
+flake8
