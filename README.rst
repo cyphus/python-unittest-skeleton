@@ -14,4 +14,4 @@ Requirements
 Usage
 -----
 
-Run unit tests with `tox`. Run linter (flake8) with `tox -e lint`.
+Run unit tests with ``tox``. Run linter (flake8) with ``tox -e lint``.

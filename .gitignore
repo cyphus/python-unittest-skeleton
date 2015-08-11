@@ -1,2 +1,3 @@
 .coverage
-.tox/
+.tox
+*.egg-info
