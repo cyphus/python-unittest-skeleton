@@ -7,9 +7,7 @@ with testing.
 Requirements
 ------------
 
-- Python2 virtualenv
-- Python3 virtualenv
-- tox
+- tox (``sudo pip install tox``)
 
 Usage
 -----
